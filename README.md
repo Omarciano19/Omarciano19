@@ -4,7 +4,7 @@ I'm Omar, passionate about data science and physics. I'm looking to use technolo
 
 I'll be uploading my journey through data science and any topic that catches my attention.
 
-- 🔭 I'm currently working on a grain classification system, inspired by my brother, I want to challenge my skills in creating deep learning models.
+- 🔭 I'm currently working on a grain classification system, inspired by my brother, I want to challenge my skills in creating deep learning models and optimized them as much as possible.
 - 🌱 I'm currently learning data science, with projects based on real-life data.
 
 ## Lenguges, packages \& tools
