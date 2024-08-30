@@ -7,7 +7,7 @@ I'll be uploading my journey through data science and any topic that catches my 
 - 🔭 I'm currently working on a grain classification system, inspired by my brother, I want to challenge my skills in creating deep learning models.
 - 🌱 I'm currently learning data science, with projects based on real-life data.
 
-## Lenguajes, paquetes y herramientas
+## Lenguges, packages \& tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,scala" /> <br>
