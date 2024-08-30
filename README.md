@@ -1,9 +1,11 @@
 ## Hello there 
 
-I'm Omar, passionate about data science and physics. Searching to use technological tools and knowledge to bring wellbeing to people.
+I'm Omar, passionate about data science and physics. I'm looking to use technological tools and knowledge to bring well-being to people.
 
-- 🔭 I’m currently working on a gran classification system, inspired by my brother I want to challenge my habilities to create deep learning models.
-- 🌱 I’m currently learning Data science, with projects based in real life data.
+I'll be uploading my journey through data science and any topic that catches my attention.
+
+- 🔭 I'm currently working on a grain classification system, inspired by my brother, I want to challenge my skills in creating deep learning models.
+- 🌱 I'm currently learning data science, with projects based on real-life data.
 <!--
 **Omarciano19/Omarciano19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
