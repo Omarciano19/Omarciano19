@@ -6,6 +6,28 @@ I'll be uploading my journey through data science and any topic that catches my 
 
 - 🔭 I'm currently working on a grain classification system, inspired by my brother, I want to challenge my skills in creating deep learning models.
 - 🌱 I'm currently learning data science, with projects based on real-life data.
+
+## Lenguajes, paquetes y herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,scala" /> <br>
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> <br>
+    pandas, numpy, scipy
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,regex,latex" />
+</p>
+
+
+
+    
+    
 <!--
 **Omarciano19/Omarciano19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
