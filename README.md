@@ -9,7 +9,7 @@ Aqui estaré subiendo mi recorrido a través de la ciencia de datos y cualquier 
 - 💡 Tengo experiencia en Python, TensorFlow, Keras y otras herramientas de machine learning.
 - 🏆 He completado varios proyectos exitosos, incluyendo [Analísis exploratorios exahustivos](https://github.com/Omarciano19/Tripleten_Projects/tree/main/Sprint_6), [Modelos predictivos](https://github.com/Omarciano19/Tripleten_Projects/tree/main/Sprint_9).
 - 🎯 Mi objetivo es seguir aprendiendo perpetuamente y aplicar tecnologías con impacto social.
-## Lenguges, packages \& tools
+## Lenguajes, paquetes \& herramientas:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,mysql,scala" /> <br>
