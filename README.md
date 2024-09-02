@@ -1,12 +1,14 @@
 ## Hello there 
 
-I'm Omar, passionate about data science and physics. I'm looking to use technological tools and knowledge to bring well-being to people.
+Soy Omar, apasionado por la ciencia de datos y la física. Busco utilizar herramientas tecnológicas y conocimientos cientificos  para generar bienestar y soluciones.
 
-I'll be uploading my journey through data science and any topic that catches my attention.
+Aqui estaré subiendo mi recorrido a través de la ciencia de datos y cualquier tema que capte mi atención.
 
-- 🔭 I'm currently working on a grain classification system, inspired by my brother, I want to challenge my skills in creating deep learning models and optimized them as much as possible.
-- 🌱 I'm currently learning data science, with projects based on real-life data.
-
+- 🔭 Actualmente estoy trabajando en un sistema de [clasificación de granos](https://github.com/Omarciano19/Grain_Clasification), inspirado por mi hermano, quiero desafiar mis habilidades en la creación de modelos de deep learning y optimizarlos tanto como sea posible.
+- 🌱 Actualmente estoy aprendiendo ciencia de datos, con proyectos basados en datos de la vida real.
+- 💡 Tengo experiencia en Python, TensorFlow, Keras y otras herramientas de machine learning.
+- 🏆 He completado varios proyectos exitosos, incluyendo [Analísis exploratorios exahustivos](https://github.com/Omarciano19/Tripleten_Projects/tree/main/Sprint_6), [Modelos predictivos](https://github.com/Omarciano19/Tripleten_Projects/tree/main/Sprint_9).
+- 🎯 Mi objetivo es seguir aprendiendo perpetuamente y aplicar tecnologías con impacto social.
 ## Lenguges, packages \& tools
 <p align="center">
   <a href="https://skillicons.dev">
