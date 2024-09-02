@@ -17,7 +17,7 @@ Aqui estaré subiendo mi recorrido a través de la ciencia de datos y cualquier 
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" /> <br>
+    <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> <br>
     pandas, numpy, scipy
   </a>
 </p>
