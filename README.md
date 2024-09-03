@@ -1,6 +1,6 @@
 ## Hello there 
 
-Soy Omar, apasionado por la ciencia de datos y la física 🤓. Busco utilizar herramientas tecnológicas y conocimientos cientificos  para generar bienestar y soluciones.
+Soy Omar, apasionado por la ciencia de datos y la física 🤓. Busco utilizar herramientas tecnológicas y conocimientos cientificos  para aplicar soluciones y para generar bienestar.
 
 Aqui estaré subiendo mi recorrido a través de la ciencia de datos y cualquier tema que capte mi atención.
 
