@@ -18,13 +18,23 @@ Aqui estaré subiendo mi recorrido a través de la ciencia de datos y cualquier 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv" /> <br>
-    pandas, numpy, scipy
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img width="50" alt="matplotlib" src="https://github.com/user-attachments/assets/ce74821c-1dce-450f-9ec1-12a9eee6fbd6">
+    <img width="50" alt="pandas" src="https://github.com/user-attachments/assets/27c3a024-7cee-4516-9e77-1e4cd37a666b">
+    <img width="50" alt="scipy" src="https://github.com/user-attachments/assets/37e08e30-2c9a-43b8-90be-f7e2b342961f">
+
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,regex,latex" />
 </p>
+
+
+
 
 
 
